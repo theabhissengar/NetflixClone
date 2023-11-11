@@ -1,0 +1,51 @@
+nav{
+    background-color: black;
+    color: #e5e5e5;
+    display: flex;
+    justify-content: space-around;
+    height: 4rem;
+    width: 100%;
+}
+
+.navLeft{
+    display: flex;
+    padding-right: 33rem;
+}
+
+.navRight{
+    display: flex;
+}
+
+.logo img{
+    margin: 0 auto;
+    width: 170px;
+    height: 100px;
+}
+
+.nav-links{
+    margin: auto 0;
+}
+
+.nav-links ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+/* 
+.prof{
+    margin: auto 0;
+}
+
+.searchIcon{
+    margin: auto 0;
+}
+
+.child{
+    margin: auto 0;
+}
+
+.bell{
+    margin: auto 0;
+}
+ */
